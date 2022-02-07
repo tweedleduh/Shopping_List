@@ -1,0 +1,32 @@
+{
+"shopping_list": [
+    {
+        "name": "bell pepper",
+        "department": "produce"
+    },
+    {
+        "name": "bananas",
+        "department": "produce"
+    },
+    {
+        "name": "toilet paper",
+        "department": "home goods"
+    },
+    {
+        "name": "cucumber",
+        "department": "produce"
+    },
+    {
+        "name": "bread",
+        "department": "bakery"
+    },
+    {
+        "name": "eggs",
+        "department": "dairy"
+    },
+    {
+        "name": "milk",
+        "department": "dairy"
+    }
+    ]
+}
