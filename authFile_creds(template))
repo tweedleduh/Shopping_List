@@ -1,0 +1,7 @@
+def aws_key_id():
+    key_id = "your key"
+    return(key_id)
+    
+def aws_access_key_id():
+    aws_secret_access_key = "Your secret key"
+    return(aws_secret_access_key)
